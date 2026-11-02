@@ -100,6 +100,9 @@ kiwisiot.send("0", temperatureData);  // Temperature
 kiwisiot.send("1", humidityData);     // Humidity
 ```
 
+## Real time image
+<img width="721" height="1600" alt="image" src="https://github.com/user-attachments/assets/2fc89437-c62a-4fce-97ba-5d241a63b6d7" />
+
 ## 📸 Real Hardware Setup
 
 ![Real hardware](docs/images/real-hardware-setup.jpg)
