@@ -62,6 +62,9 @@ See [docs/SETUP.md](docs/SETUP.md) for step-by-step installation.
 | DATA         | **D5**          |
 | GND          | GND             |
 
+<img width="1452" height="1083" alt="image" src="https://github.com/user-attachments/assets/e55927c0-b375-4423-ac3a-778a2eac822a" />
+
+
 ![Circuit diagram](docs/images/circuit-diagram.png)
 
 More details: [docs/WIRING.md](docs/WIRING.md)
