@@ -91,6 +91,8 @@ Create a panel and add two widgets:
 | Gauge       | TEMPERATURE | 0          | °C   |
 | Gauge       | HUMIDITY    | 1          | %    |
 
+<img width="1600" height="751" alt="image" src="https://github.com/user-attachments/assets/19b5adae-15d6-4f75-9231-93ab7e25db43" />
+
 Sending code:
 
 ```cpp
